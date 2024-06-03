@@ -13,18 +13,18 @@ This page is itself an attempt to replicate the [Our World in Data page](https:/
 
 ## **Notes**
 
-* You don't need to replicate all the aesthetic features of the page. Focus on the core features: three tabs with a table, map, and chart.
-* Although you will collaborate with your peers during the workshop, you will submit your own work.
+-   You don't need to replicate all the aesthetic features of the page. Focus on the core features: three tabs with a table, map, and chart.
+-   Although you will collaborate with your peers during the workshop, you will submit your own work.
 
 ## **Getting Started**
 
-1. Fork, then clone this repository: [https://github.com/the-graph-courses/owid_life_satisfaction](https://github.com/the-graph-courses/owid_life_satisfaction){target="_blank"}.
-2. Open the `index.Rmd` file. This file contains a skeleton for your assignment.
-3. Follow the instructions to complete each tab. The Map tab is already completed for you.
+1.  Fork, then clone this repository: [https://github.com/the-graph-courses/owid_life_satisfaction](https://github.com/the-graph-courses/owid_life_satisfaction){target="_blank"}.
+2.  Open the `index.Rmd` file. This file contains a skeleton for your assignment.
+3.  Follow the instructions to complete each tab. The Map tab is already completed for you.
 
 ## **Publishing to GitHub Pages**
 
-When finished, render your HTML and push your changes to GitHub and enable GitHub Pages for the repository. 
+When finished, render your HTML and push your changes to GitHub and enable GitHub Pages for the repository.
 
 ## **Submission**
 

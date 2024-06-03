@@ -1,8 +1,14 @@
 ---
-title: "Self-reported life satisfaction, 2011 to 2022"
+title: "Share of people who say they are happy, 2022"
 output: 
   html_document:
     theme: united
+    self_contained: true
+    lib_dir: "libs"
+    keep_md: false
+    css: null
+    mathjax: null
+    highlight: default
 ---
 
 <img src="Our_World_in_Data_logo.png" style='width: 100px; position:absolute; top:0; right:0; padding:10px;'/>
@@ -29,7 +35,7 @@ happy <-
   rename(Country = Entity)
 ```
 
-“Please imagine a ladder, with steps numbered from 0 at the bottom to 10 at the top. The top of the ladder represents the best possible life for you and the bottom of the ladder represents the worst possible life for you. On which step of the ladder would you say you personally feel you stand at this time?”
+"Share of people who respond they are "very happy" or "rather happy" to the question "Taking all things together, would you say you are … ?"
 
 # {.tabset}
 
@@ -133,7 +139,7 @@ window.onload = filter_default;
 
 Data source: World Happiness Report
 
-[OurWorldInData.org/happiness-and-life-satisfaction](https://ourworldindata.org/grapher/happiness-cantril-ladder) | CC BY
+[OurWorldInData.org/happiness-and-life-satisfaction](https://ourworldindata.org/grapher/happiness-cantril-ladder) | CC BY Rosa Lea S. Baldevarona
 
 
 
